@@ -10,5 +10,4 @@
 - NanoBanana para gerar a capa do podcast
 
 
-[Capa do Podcast](assets/cover.png)
-)
+[Capa do Podcast](assets/Cover.png)
