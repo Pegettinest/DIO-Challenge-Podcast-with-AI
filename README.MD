@@ -8,3 +8,7 @@
 
 - Prompt para HeyGen gerado via Perplexity
 - NanoBanana para gerar a capa do podcast
+
+
+[Capa do Podcast](assets/cover.png)
+)
